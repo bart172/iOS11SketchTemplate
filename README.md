@@ -7,3 +7,5 @@ All icons are in @2x format (120x120px), I know some of you may want to work wit
 
 If you want to host this template to your website feel free to do it by linking to this Github page, as I'm planning to constantly update the template.
 I ask you not to sell to other people or websites this template, and to mention me in your final work if possible.
+
+Special thanks to Julian Gomez (@Axinen) for creating the PSD version!
